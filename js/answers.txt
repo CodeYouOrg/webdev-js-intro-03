@@ -1,0 +1,5 @@
+1. When a number is added to a string the program converts the number to a string data type before concatenizing them.  This just makes logical sense since it would be foolish and impossile to try to convert a string to a number.  
+2. == evaluates both data type and value.  This will cause issues when using it for strings.  
+3.  None of the operators are confusing.
+4. Modulus returns the remainder.  One would use that to check if a number is divisible by another number.  One scenrio would be when trying to determine if a number is even or odd.
+Why is there a submit button?  Am I doing something wrong?
